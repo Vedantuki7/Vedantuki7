@@ -4,7 +4,7 @@
 
 I build scalable, cloud-native systems end-to-end — from React frontends to the AWS infrastructure that runs them.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-c2a4ff?style=for-the-badge)](https://portfolio-website-main-inky-theta.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-c2a4ff?style=for-the-badge)](https://vedant-ukirde.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vedant--ukirde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-ukirde)
 [![Email](https://img.shields.io/badge/Email-vedantukirde%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantukirde@gmail.com)
 
@@ -73,6 +73,6 @@ I'm also a strong advocate for AI-assisted engineering workflows — I use tools
 
 I'm always open to talking about backend architecture, cloud infrastructure, or interesting engineering problems.
 
-📫 **vedantukirde@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/vedant-ukirde) &nbsp;|&nbsp; 🌐 [Portfolio](https://portfolio-website-main-inky-theta.vercel.app)
+📫 **vedantukirde@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/vedant-ukirde) &nbsp;|&nbsp; 🌐 [Portfolio](https://vedant-ukirde.vercel.app)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b080c,100:2d1b69&height=100&section=footer" width="100%" alt="footer">
